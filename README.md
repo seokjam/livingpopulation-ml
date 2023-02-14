@@ -9,7 +9,8 @@
 
 <div align="right">Photo by <a href="https://unsplash.com/it/@ryoji__iwata?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ryoji Iwata</a> on <a href="https://unsplash.com/images/people?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></div>
 
-# Chapter1. 데이터 수집 및 분석 ( ***file: 1. 데이터 수집 및 분석.ipynb*** )
+# Chapter1. 데이터 수집 및 분석 
+> ***실습 파일 : 1. 데이터 수집 및 분석.ipynb***
 ### **1) 실습 순서**
 - 환경 준비
 - 데이터 탐색하기
@@ -64,7 +65,8 @@
 
 ---
 
-# Chapter2. 데이터 전처리 ( ***file: 2. 데이터 전처리.ipynb*** )
+# Chapter2. 데이터 전처리 
+> ***실습 파일 : 2. 데이터 전처리.ipynb*** 
 ### **1) 실습 순서**
 - 환경 준비
 - 결측치 처리하기
@@ -81,7 +83,8 @@
 
 ---
 
-# Chapter3. AI 모델링 ( ***file: 3. AI 모델링.ipynb*** )
+# Chapter3. AI 모델링 
+> ***실습 파일: 3. AI 모델링.ipynb***
 ### **1) 실습 순서**
 - 환경 준비
 - Train, Test 데이터셋 분할

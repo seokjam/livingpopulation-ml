@@ -1,8 +1,6 @@
-# livingpopulation-ml
+#### livingpopulation-ml
 
-# 안녕하세요^^ 
-# AI 모델링 시간에 오신 여러분을 환영합니다.
-
+## AI 모델링 시간에 오신 여러분을 환영합니다.
 ## 오늘은 날씨, 미세먼지, 공휴일 데이터를 활용하여 서울시 <u>생활인구</u>를 예측해 보겠습니다.
 
 <img src = "https://images.unsplash.com/photo-1528642474498-1af0c17fd8c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2069&q=80" width=100% align="center"/>
